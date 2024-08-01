@@ -1,0 +1,5 @@
+initiates all the vertices in the graph
+delect the node highest degree to color it with any colors
+chose the colors to be used in the graph with the help of selection color so that that no adjacent color is having the same color
+check thee color can be added and if it does add it to the solution set
+repeat the process from step 2 until the solution set is ready
